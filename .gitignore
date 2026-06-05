@@ -1,0 +1,6 @@
+include/secrets.h
+
+.vscode/
+build/
+*.o
+*.bin
